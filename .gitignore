@@ -1,7 +1,6 @@
 # Ignoring data files #
 #######################
 *.pkl
-*.npy
 
 # We'll ignore all of the following:
 
